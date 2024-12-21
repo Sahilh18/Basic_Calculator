@@ -1,0 +1,1 @@
+This is a Python-based calculator that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The program runs in the terminal and includes a start function for interaction. Users can exit the calculator by typing "END."
